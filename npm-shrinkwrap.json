@@ -1,12 +1,12 @@
 {
 	"name": "bunny-dns",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"lockfileVersion": 2,
 	"requires": true,
 	"packages": {
 		"": {
 			"name": "bunny-dns",
-			"version": "0.0.5",
+			"version": "0.0.6",
 			"dependencies": {
 				"got": "^14.6.5"
 			}

@@ -1,3 +1,9 @@
+### 0.0.6
+
+- adds CAA support
+- deps:
+  - ^got@14.6.5
+
 ### 0.0.5
 
 - adds zone_statistics(zone_id)
